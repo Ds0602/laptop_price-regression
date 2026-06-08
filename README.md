@@ -22,3 +22,8 @@ I aim to learn new concepts and algorithms to help improve the program's accurac
 - This project is my first step into machine learning, aiming to explore the field.
 - Build a working model to predict laptop prices.
 - Further explore relevant concepts and techniques in programming overall.
+
+## Dataset
+The dataset used in this project was obtained from Kaggle:
+
+- [Laptop Specifications and Price Prediction Dataset](https://www.kaggle.com/datasets/muhammadmusharraf444/laptop-specifications-and-price-prediction-dataset?resource=download)
